@@ -1,0 +1,25 @@
+StateName,PNGFilename,TransitionText,NewState
+sad,assets/sad.png,go on tinder,excited
+sad,assets/sad.png,talk to your ex,confused
+sad,assets/sad.png,talk to someone in your class,happy
+excited,assets/excited.png,meet up with someone 20 years older than you,anxious
+excited,assets/excited.png,hook up with someone,confused
+excited,assets/excited.png,meet up with someone you have a crush on,happy
+happy,assets/happy.png,they give you flowers and your favorite food,in love
+happy,assets/happy.png,they ask you to help clean their house,confused
+happy,assets/happy.png,they can tell you like them and reject you,heartbroken
+confused,assets/confused.png,you unload all your emotions to them,happy
+confused,assets/confused.png,try to be official with them,anxious
+confused,assets/confused.png,you can tell they don't care about you,heartbroken
+heartbroken,assets/heartbroken.png,you decide to look for more fish in the sea,excited
+heartbroken,assets/heartbroken.png,you see a bunch of couples,sad
+heartbroken,assets/heartbroken.png,you hang out with a friend,happy
+anxious,assets/anxious.png,they reject you,heartbroken
+anxious,assets/anxious.png,you mutually realize it's not meant to be,happy
+anxious,assets/anxious.png,they say yes!,in love
+in love,assets/love.png,give them a kiss,happy
+in love,assets/love.png,you check the suspicious notifications on their phone,rage
+in love,assets/love.png,they ghost you,confused
+rage,assets/rage.png,they say it's just their ex,confused
+rage,assets/rage.png,they admit they are cheating on you,heartbroken
+rage,assets/rage.png,they break up with you,sad
